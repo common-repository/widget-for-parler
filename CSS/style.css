@@ -1,0 +1,17 @@
+/* Button styles */
+.button.parlerfollow {
+    cursor:pointer;
+    border:none;
+    width: 250px;
+    height: 45px;
+	margin: 0px 0px 5px 0px;
+	background-size: 100% 100%;
+	}
+	
+.button.aparlershare {
+    cursor:pointer;
+    border:none;
+    width: 250px;
+    height: 45px;
+	background-size: 100% 100%;
+}
